@@ -1,4 +1,6 @@
 
+<img src="https://github.com/user-attachments/assets/0e34be31-dbc9-4a31-9723-624b9d04dbb9"  width="200" />
+
 ## 👋 Hello! I'm Anderson Luiz
 
 I hold a degree in **Internet Systems** from **UNCISAL (Universidade Estadual de Ciências da Saúde de Alagoas)**, completed in **2020**.
